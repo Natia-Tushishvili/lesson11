@@ -1,4 +1,3 @@
-
 // davaleba-1
 
 // let user={
@@ -53,13 +52,13 @@
 
 
 
-// davaleba-5  ver gavakete
+// davaleba-5  
 
-// let array = ['watermelon', 'pear', 10, 45, 50,'apple', 'ananas'] ;
+// let array = ['watermelon', 'pear', 10, 45, 50, 'apple', 'ananas'];
 
-// for(let x of array ){
-//     if( typeof x==String){
-//         console.log(x);
+// for (let item of array) {
+//     if (typeof item == 'String') {
+//         console.log(item);
 //     }
 // }
 
@@ -76,7 +75,3 @@
 //         console.log(username);
 //     }
 // }
-
-
-
-
